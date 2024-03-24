@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D4DD7F-9090-43EE-9B35-71F213DD81BE}|Task7\\Task7.csproj|c:\\users\\pc\\desktop\\task 7\\task7\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D4DD7F-9090-43EE-9B35-71F213DD81BE}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D4DD7F-9090-43EE-9B35-71F213DD81BE}|Task7\\Task7.csproj|c:\\users\\pc\\desktop\\task 7\\task7\\task7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D4DD7F-9090-43EE-9B35-71F213DD81BE}|Task7\\Task7.csproj|solutionrelative:task7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D4DD7F-9090-43EE-9B35-71F213DD81BE}|Task7\\Task7.csproj|c:\\users\\pc\\desktop\\task 7\\task7\\task7\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D4DD7F-9090-43EE-9B35-71F213DD81BE}|Task7\\Task7.csproj|solutionrelative:task7\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\Task7\\Department.cs",
+              "RelativeDocumentMoniker": "Task7\\Department.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\Task7\\Department.cs",
+              "RelativeToolTip": "Task7\\Department.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:08:57.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\Task7\\Employee.cs",
+              "RelativeDocumentMoniker": "Task7\\Employee.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\Task7\\Employee.cs",
+              "RelativeToolTip": "Task7\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:40:59.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\Desktop\\Task 7\\Task7\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwGIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:36:33.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
